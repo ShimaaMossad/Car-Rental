@@ -206,7 +206,7 @@ body
 /* ================= callin for users to rent with us ( the part before the footer ) style ================ */
 .calling
 {
-    background:linear-gradient(rgba(10, 10, 10, 0.205), rgba(10, 10, 10, 0.205)), url('../Images/bg3.jpg') center center/cover;
+    background:linear-gradient(rgba(10, 10, 10, 0.205), rgba(10, 10, 10, 0.205)), url('../images/bg3.jpg') center center/cover;
     /* background:linear-gradient(rgba(0, 0, 0, 0.534), rgba(0, 0, 0, 0.534)), url('../Images/bg3.jpg') center center/cover no-repeat fixed; */
     height: 500px;
 }
